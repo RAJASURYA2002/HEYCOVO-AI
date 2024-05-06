@@ -90,3 +90,5 @@ Introducing our cutting-edge AI study companion – your ultimate academic ally.
 </li>
 </ul>
 <br/>
+<hr/>
+<p align="center">&copy; 2024 SG TECH. All Rights Reserved.</p>
