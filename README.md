@@ -10,6 +10,6 @@
 </div>
 <hr/>
 <h1>ABSTRACT</h1>
-<div align="justify">
+<div align="justify" style="display: inline;">
 Introducing our cutting-edge AI study companion – your ultimate academic ally. Seamlessly integrating into your routine, this intuitive assistant boasts voice recognition akin to chatting with a friend. With lightning-fast responses and natural conversation, it's designed to revolutionize your academic journey. Harnessing advanced natural language processing, it effortlessly tackles queries and stores conversations offline, ensuring access anytime, anywhere. Picture effortlessly accessing web information, collaborating with peers, and staying ahead with the latest insights. Say hello to effortless learning with your dedicated AI study companion.
 </div>
