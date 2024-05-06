@@ -38,5 +38,5 @@ Introducing our cutting-edge AI study companion – your ultimate academic ally.
 <h2>SCREENSHOTS OR DEMO:</h2>
 #### Mobile-
 
-| <img src="./screenshots/android/HomeDark.png" width="180"/> | <img src="./screenshots/android/ForecastDark.png" width="180"/> | <img src="./screenshots/android/ForecastDetailsDark.png" width="180"/> | <img src="./screenshots/android/SavedDark.png" width="180"/> |
+| <img src="/image/1.jpg" width="180"/> | <img src="/image/2.jpg" width="180"/> | <img src="/image/3.jpg" width="180"/> | <img src="/image/4.jpg" width="180"/> |
 | ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
