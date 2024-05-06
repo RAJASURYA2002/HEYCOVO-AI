@@ -9,12 +9,12 @@
     <img width="50" height="50" src="/image/png-transparent-android-software-development-logo-android-text-grass-desktop-wallpaper-thumbnail-removebg-preview.png" alt="Heyconvo_Image">
 </div>
 <hr/>
-<h1>ABSTRACT</h1>
+<h2>ABSTRACT</h2>
 <div align="justify" style="display: inline;">
 Introducing our cutting-edge AI study companion – your ultimate academic ally. Seamlessly integrating into your routine, this intuitive assistant boasts voice recognition akin to chatting with a friend. With lightning-fast responses and natural conversation, it's designed to revolutionize your academic journey. Harnessing advanced natural language processing, it effortlessly tackles queries and stores conversations offline, ensuring access anytime, anywhere. Picture effortlessly accessing web information, collaborating with peers, and staying ahead with the latest insights. Say hello to effortless learning with your dedicated AI study companion.
 </div>
 <br/>
-<h1>FEATURES OF HEYCONVO</h1>
+<h2>FEATURES OF HEYCONVO</h2>
 <ul>
     <li>🚀 Cutting-edge Voice Recognition</li>
     <li>🤝 Personalized Assistance Tailored to Your Needs</li>
@@ -27,3 +27,12 @@ Introducing our cutting-edge AI study companion – your ultimate academic ally.
     <li>📈 Productivity Boosting Tools</li>
     <li>🎯 Goal Setting and Tracking Functionality</li>
 </ul>
+> Note:
+>
+> -  This application will function on Android 10 and later versions.
+> -  Other Android versions use accent colours within the app to match the material you system.
+<br/>
+<h2>SCREENSHOTS OR DEMO:</h2>
+<div  style="display: flex;">
+
+</div>
