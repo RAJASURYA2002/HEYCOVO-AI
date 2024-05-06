@@ -27,7 +27,7 @@ Introducing our cutting-edge AI study companion – your ultimate academic ally.
     <li>📈 Productivity Boosting Tools</li>
     <li>🎯 Goal Setting and Tracking Functionality</li>
 </ul>
-<div style="opacity:0.5;">
+<div style="opacity:0;">
 <p>Note:</p>
 <ul>
 <li>This application will function on Android 10 and later versions.</li>
