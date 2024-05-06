@@ -60,3 +60,9 @@ Introducing our cutting-edge AI study companion – your ultimate academic ally.
 <p>Message Page</p>
 
 | <img src="/image/11.jpg" width="180"/> | <img src="/image/12.jpg" width="180"/>|
+
+<h2>CONTRIBUTING</h2>
+<ul>
+    <li>👤 RAJASURYA R</li>
+</ul>
+<br/>
