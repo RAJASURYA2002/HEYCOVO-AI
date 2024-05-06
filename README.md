@@ -27,16 +27,27 @@ Introducing our cutting-edge AI study companion – your ultimate academic ally.
     <li>📈 Productivity Boosting Tools</li>
     <li>🎯 Goal Setting and Tracking Functionality</li>
 </ul>
-<div opacity:0>
+<!-- <div opacity:0>
 <p>Note:</p>
 <ul>
 <li>This application will function on Android 10 and later versions.</li>
 <li>Other Android versions use accent colours within the app to match the material you system.</li>
 </ul>
-</div>
+</div> -->
+
+> Note:
+>
+> -  This application will function on Android 10 and later versions.
+> -  Other Android versions use accent colours within the app to match the material you system.
+
+---
 <br/>
 <h2>SCREENSHOTS OR DEMO:</h2>
-#### Mobile-
+<p>Home Page</p>
+
+| <img src="/image/1.jpg" width="180"/> | <img src="/image/2.jpg" width="180"/> | <img src="/image/3.jpg" width="180"/> | <img src="/image/4.jpg" width="180"/> |
+| ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
+<p>Account Page</p>
 
 | <img src="/image/1.jpg" width="180"/> | <img src="/image/2.jpg" width="180"/> | <img src="/image/3.jpg" width="180"/> | <img src="/image/4.jpg" width="180"/> |
 | ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
