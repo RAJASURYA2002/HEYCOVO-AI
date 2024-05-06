@@ -1,11 +1,9 @@
-<style>
-.justify {
-    text-align: justify;
-}
-</style>
-
-<div class="justify">
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget ante nec quam accumsan ultricies. Mauris efficitur feugiat odio, id tempor magna ullamcorper non. In hac habitasse platea dictumst. Nulla facilisi. Proin non dapibus lorem, vel molestie magna. Duis tempus justo non lorem efficitur, at hendrerit nunc congue. Duis et arcu at est hendrerit rhoncus non sit amet est. Duis non urna ut tortor pharetra pellentesque sed at sem. Sed efficitur fermentum felis, vel rhoncus ipsum fermentum sit amet. Maecenas tempus varius nisi, id vehicula nisi convallis eget. Nam et gravida risus.
-
+<div align="center">
+   <img width="80" height="80" src="/image/icon.png" alt="Heyconvo_Image"/>
+   <h2>HEYCONVO AI</h2>
+<!--    <p>a material design, <strong>closed source live-weather app</strong> for android with <strong>Material You</strong> theming.</p> -->
+    <p><strong>Heyconvo: <strong>Your Trusted Friend in Productivity Revolutionizing Daily Life with Smart Voice Recognition Technology</p>
+</div>
+<div align="center">
+    <img width="80" height="80" src="https://w7.pngwing.com/pngs/168/443/png-transparent-flutter-logo-flutter-software-logo-social-media-logo-logo-technology-logo-3d-icon-thumbnail.png" alt="Heyconvo_Image">
 </div>
