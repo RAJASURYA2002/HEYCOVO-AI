@@ -5,6 +5,6 @@
     <p><strong>Heyconvo: <strong>Your Trusted Friend in Productivity Revolutionizing Daily Life with Smart Voice Recognition Technology</p>
 </div>
 <div align="center">
-    <img width="80" height="80" src="/image/flutter-removebg-preview.png" alt="Heyconvo_Image">
-    <img width="80" height="80" src="/image/png-transparent-android-software-development-logo-android-text-grass-desktop-wallpaper-thumbnail-removebg-preview.png" alt="Heyconvo_Image">
+    <img width="50" height="50" src="/image/flutter-removebg-preview.png" alt="Heyconvo_Image">
+    <img width="50" height="50" src="/image/png-transparent-android-software-development-logo-android-text-grass-desktop-wallpaper-thumbnail-removebg-preview.png" alt="Heyconvo_Image">
 </div>
